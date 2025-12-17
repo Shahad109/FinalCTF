@@ -1,6 +1,6 @@
 # FinalCTF Security Testing Tool
 
-**Author:** Shahad, Layan and Dana 
+**Authors:** Shahad, Layan and Dana 
 **Course:** Certified Ethical Hacker
 **Year:** 2025  
 
