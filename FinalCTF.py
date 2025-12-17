@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 FinalCTF Security Testing Tool
-Author: Your Name
-Course: CYB-3633
+Author: Shahad , Dana and Layan
 Description:
     Lightweight automated security-testing tool for SQLi, XSS,
     and access-control validation on intentionally vulnerable web apps.
@@ -100,3 +99,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
